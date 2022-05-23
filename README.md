@@ -4,6 +4,8 @@
 <img width="150" alt="logo" src="logo-round.png">
 
 ## Screens it contains
-👉 Home screen<br>
-👉 Order confirm screen<br>
-👉 Order success screen<br>
+👉 Item Detail screen<br>
+👉 Shopping Cart screen<br>
+👉 Order Confirm screen<br>
+
+<img width="150" alt="screen1" src="item_detail_screen.png">     <img width="150" alt="screen2" src="cart_screen.png">     <img width="150" alt="screen3" src="order_confirm_screen.png">
