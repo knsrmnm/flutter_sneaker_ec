@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sneaker_ec/screens/home_screen.dart';
-import 'package:flutter_sneaker_ec/screens/order_confirm_screen.dart';
+import 'package:flutter_sneaker_ec/screens/item_detail_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -18,7 +17,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Theme.of(context).scaffoldBackgroundColor,
         ),
       ),
-      home: OrderConfirmScreen(),
+      home: ItemDetailScreen(),
     );
   }
 }
